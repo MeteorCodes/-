@@ -1,0 +1,28 @@
+
+|   charts.py
+|   finish.py
+|   structure.txt
+|   
++---data
+|       hongheiku_data.csv
+|       population_clock_data.csv
+|       population_forecast_histort.csv
+|       population_histort.csv
+|       religion_table.csv
+|       
+\---template
+    |   chart_config.json
+    |   deshboard.html
+    |   test.html
+    |   фад╩╫ьм╪ 2025-07-14 170038.png
+    |   
+    \---static
+        \---js
+            |   echarts.min.js
+            |   jquery-ui.min.js
+            |   jquery.min.js
+            |   ResizeSensor.js
+            |   
+            \---maps
+                    china.js
+                    
