@@ -2,6 +2,6 @@
   实时人口数据可视化分析 🦖
 </h1>
 
-<p align="center">
+<h2 align="center">
   <strong>china-population-clock-visualization 😸</strong>
-</p>
+</h2>
